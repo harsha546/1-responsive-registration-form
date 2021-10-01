@@ -144,6 +144,10 @@ form .button input:hover{
       margin-bottom: 15px;
       width: 100%;
   }
+    
+  form .gender-details{
+      border-top: 1px solid #faaca8;
+  }
 
   form .gender-details .category{
       width: 100%;
